@@ -6,7 +6,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 I was interested in using Stack Overflow data from 2020 and 2019 to see if the pandemic hat a significant impact on certrain metric in the survey. Following question where asked to answer it:
 
-1. 1. How did the work amount change during the pandemic?
+1. How did the work amount change during the pandemic?
 2. How did job Satisfaction change during the pandemic?
 3. How did job satisfaction change depending on working hours?
 4. How does work satisfatcon correlate to income"
